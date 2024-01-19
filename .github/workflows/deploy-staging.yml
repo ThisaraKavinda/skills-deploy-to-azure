@@ -11,7 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: ThisaraKavinda-azure-ttt
   AZURE_WEBAPP_NAME: ThisaraKavinda-ttt-app
-  ###############################################
+  ##############################################
 
 jobs:
   build:
